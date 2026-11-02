@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.pytest_cache/
+
+# FastF1 cache (원본 데이터는 커밋하지 않음)
+cache/
+*.ff1pkl
+
+# 로컬 HTTPS 인증서
+*.pem
+*.key
+certs/
+
+# 주행 기록 등 실행 중 생성 파일
+runs/
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Streamlit secrets
+.streamlit/secrets.toml
