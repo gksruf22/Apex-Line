@@ -101,4 +101,4 @@ docs/       계획, 이미지
 
 ## License
 
-[MIT License](LICENSE) © 2026 gksruf22
+[MIT License](LICENSE) © 2026 cho hangyeol
